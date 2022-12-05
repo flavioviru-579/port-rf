@@ -1,0 +1,175 @@
+
+
+
+.text-h1{
+  margin-top: -40px;
+  padding: 10px;
+  margin-left: 30px;
+  margin-bottom: 40px;
+  }
+  .text-h2{
+    margin-top: -40px;
+    padding: 20px;
+    margin-left: 50px;
+  }
+  
+ 
+.image-fit {
+  margin-left: 40px;
+}
+ 
+.description img {
+  background-color:#f1b162;
+  padding: 40px 40px 0px 40px;
+  width: 300px;
+  border-radius: 13px;
+  margin-top: 40px;
+  margin-left: 80px;
+
+}
+
+.skill {
+  margin-bottom: 50px;
+}
+
+.skill .progress,
+.progress-bar {
+  height: 20px;
+  border-radius: 10px;
+}
+/*
+.portafolio {
+  display: flex;
+  justify-content:center ;
+}
+
+.portafolio .card {
+  margin-top: 40px;
+  width: 18rem;
+}
+
+*/
+
+
+h6, .h6, h5, .h5, h4, .h4, h3, .h3, h2, .h2, h1, .h1 {
+margin-top: 0;
+margin-bottom: 0.5rem;
+font-family: "Saira Extra Condensed", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+font-weight: 500;
+line-height: 1.2;
+color: rgb(38, 39, 43);
+}
+
+h1, .h1 {
+font-size: calc(1.725rem + 5.7vw);
+
+}
+@media (min-width: 1400px) {
+h1, .h1 {
+  font-size: 7rem;
+}
+}
+
+h2, .h2 {
+font-size: calc(1.775rem + 2.7vw);
+margin-left: 80px;
+
+}
+@media (min-width: 1200px) {
+h2, .h2 {
+  font-size: 3.5rem;
+}
+}
+
+h6, .h6 {
+  font-size: 1rem;
+}
+
+p {
+  margin-top: 0;
+  margin-bottom: 2rem;
+  margin-left: 30px;
+}
+
+
+
+
+
+.container,
+.flex-column,
+.flex-grow-1,
+.container-fluid,
+.container-xxl,
+.container-xl,
+.container-lg,
+.container-md,
+.container-sm {
+  width: 100%;
+  padding-right: var(--bs-gutter-x, 0.75rem);
+  padding-left: var(--bs-gutter-x, 0.75rem);
+  margin-right: auto;
+  margin-left: auto;
+} 
+
+
+
+   
+
+
+    * {
+      padding: 0;
+      margin: 0;
+      font-family: century gothic;
+      text-align: none;
+    }
+    
+    form {
+      padding: 50px 20px;
+      background-color:#6AC483 ;
+      margin: calc(20% + 30px);
+      margin-top: 50px;
+      padding: 50px;
+      margin-bottom: 40px
+    }
+    
+    h1 {
+      text-align: center;
+      padding: 12px;
+      color: black
+    }
+    
+    input {
+      width: calc(100% - 20px);
+      padding: 9px;
+      margin: auto;
+      margin-top: 12px;
+      font-size: 20px
+    }
+    
+    input[type='submit']{
+      background-color: rgb(31, 88, 173);
+      color:#fff;
+      width: calc(80% - 20px);
+      margin: 0 10%;
+      margin-top: 22px;
+      border: center;
+    }
+    
+    
+    .ok {
+      text-align: none;
+      width: 100%;
+      padding: 12px;
+      background-color:;
+      color: #fff
+    }
+    .bad {
+      text-align: center;
+      width: 100%;
+      padding: 12px;
+      background-color: ;
+      color: #fff
+    }
+
+
+
